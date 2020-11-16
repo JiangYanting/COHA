@@ -6,7 +6,8 @@ Corpus of Historical American English
 ## Introduction 说明
 
 
- txt文档压缩后共860多MB。
+COHA美国英语语料库海量txt文档集，涵盖从1810年至2010年的美国英语语料。语料包括新闻news、小说fic、非小说的book(nf)、杂志mag等文体类别。压缩包共860多MB，均为txt文本文档。
+压缩后的txt文档集总共860多MB.
 
 
 ![语料库数据概览1](https://github.com/JiangYanting/COHA/blob/main/01.png)
